@@ -1,7 +1,3 @@
-layout: page
-title: "Unterseite A"
-permalink: https://djeske2308.github.io/
-
 # Unterseite A
 
 Hier gibt’ ne Verlinkung zu Unterseite B
