@@ -1,4 +1,8 @@
-# Hier gibt’s ‘ne Erklärung
+layout: page
+title: "Unterseite A"
+permalink: https://djeske2308.github.io/UnterseiteA
+
+# Unterseite A
 
 Hier gibt’ ne Verlinkung zu Unterseite B
 

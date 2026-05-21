@@ -1,3 +1,7 @@
+layout: page
+title: "Unterseite B"
+permalink: https://djeske2308.github.io/UnterseiteB
+
 # Unterseite B
 
 hier könnten Erklärungen und weitere Verlinkungen stehen
