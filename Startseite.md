@@ -5,7 +5,7 @@ permalink: https://djeske2308.github.io/
 
 Hier kommen jetzt ein paar Unterseiten:
 
-- [Unterseite A](https://cloud.ovgu.de/f/190200324)
-- [Unterseite B](https://cloud.ovgu.de/f/190207431)
+- [Unterseite A](Unterseiten/Unterseite%20A.md)
+- [Unterseite B](Unterseiten/Unterseite%20B.md)
 
 # Test
