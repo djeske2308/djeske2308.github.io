@@ -14,4 +14,4 @@ hier könnten Erklärungen und weitere Verlinkungen stehen
 
 hier geht’s zurück zur Startseite und wenn du magst zu anderen vorherigen Seiten
 
-[Startseite](../Startseite.md) | [Unterseite A](Unterseite%A.md)
+[Startseite](../Startseite.md) | [Unterseite A](Unterseite%20A.md)
