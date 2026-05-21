@@ -1,6 +1,6 @@
 layout: page
 title: "Unterseite B"
-permalink: https://djeske2308.github.io/UnterseiteB
+permalink: https://djeske2308.github.io/
 
 # Unterseite B
 
