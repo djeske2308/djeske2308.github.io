@@ -2,7 +2,8 @@
 layout: home
 ---
 
-# Herzlich willkommen zur Startseite
+# Startseite
+## herzlich willkommen zur Startseite
 
 Hier kommen jetzt ein paar Unterseiten:
 
