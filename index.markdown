@@ -1,7 +1,5 @@
 ---
 layout: home
-title: "Startseite"
-permalink: https://djeske2308.github.io/
 ---
 
 # Herzlich willkommen zur Startseite
