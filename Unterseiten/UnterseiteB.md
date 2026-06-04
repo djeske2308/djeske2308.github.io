@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unterseite B
-permalink: https://djeske2308.github.io/UnterseiteB
+permalink: /UnterseiteB
 ---
 
 # Unterseite B
@@ -20,4 +20,4 @@ hier könnten Erklärungen und weitere Verlinkungen stehen
 
 hier geht’s zurück zur Startseite und wenn du magst zu anderen vorherigen Seiten
 
-[Startseite](https://djeske2308.github.io/) | [Unterseite A](https://djeske2308.github.io/UnterseiteA)
+[Startseite](https://djeske2308.github.io/) | [Unterseite A](/UnterseiteA)
